@@ -5,9 +5,6 @@ using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class PickUp : MonoBehaviour {
-
-    public Material highlightMat;
-
     float throwForce = 600;
     float distance;
 
@@ -20,7 +17,7 @@ public class PickUp : MonoBehaviour {
 
     void Update() {
         distance = Vector3.Distance(this.transform.position, tempParent.transform.position);
-        if (distance >= 1f) {
+        if (distance >= 3f) {
             isHolding = false;
         }
         //Check if isholding
@@ -43,7 +40,7 @@ public class PickUp : MonoBehaviour {
     }
 
     void OnMouseDown() {
-        if (distance <= 1f) {
+        if (distance <= 3f) {
             isHolding = true;
             this.GetComponent<Rigidbody>().useGravity = false;
             this.GetComponent<Rigidbody>().detectCollisions = true;

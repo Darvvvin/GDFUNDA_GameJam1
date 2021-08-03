@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637635656620000000
-    m_Hash: 2670310965
+      ticks: 637635707680000000
+    m_Hash: 705689757
   m_LockFileStatus:
     m_FilePath: E:/Windows Unity/GitHub/GDFUNDA_GameJam1/GameJam/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637635657800000000
-    m_Hash: 120669981
+      ticks: 637635707680000000
+    m_Hash: 2664891020
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

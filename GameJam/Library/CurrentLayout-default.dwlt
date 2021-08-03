@@ -52,7 +52,10 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_MinSize: {x: 875, y: 300}
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -124,6 +127,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1440
     height: 767
   m_MinSize: {x: 679, y: 492}
@@ -138,6 +142,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 97
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    width: 1920
+    height: 947
+  m_MinSize: {x: 678, y: 342}
+  m_MaxSize: {x: 12003, y: 8042}
+  vertical: 0
+  controlID: 97
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,6 +170,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1163
     height: 767
   m_MinSize: {x: 403, y: 492}
@@ -172,6 +185,14 @@ MonoBehaviour:
   vertical: 1
   controlID: 40
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    width: 1551
+    height: 947
+  m_MinSize: {x: 402, y: 342}
+  m_MaxSize: {x: 8002, y: 8042}
+  vertical: 1
+  controlID: 40
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,6 +213,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1163
     height: 496
   m_MinSize: {x: 403, y: 221}
@@ -206,6 +228,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 41
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    width: 1551
+    height: 673
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
+  vertical: 0
+  controlID: 41
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,16 +254,22 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 201
     height: 496
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     width: 216
     height: 673
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -255,16 +291,22 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 201
     y: 0
     width: 962
     height: 496
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     x: 216
     y: 0
     width: 1335
     height: 673
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
@@ -291,6 +333,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 496
     width: 1163
     height: 271
@@ -315,6 +358,19 @@ MonoBehaviour:
   m_Selected: 1
   m_LastSelected: 0
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    y: 673
+    width: 1551
+    height: 274
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 17}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,11 +387,14 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1163
     y: 0
     width: 277
     height: 767
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     x: 1551
     y: 0
     width: 369
@@ -369,6 +428,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 201
     y: 73
     width: 960
@@ -379,6 +439,12 @@ MonoBehaviour:
     width: 1333
     height: 652
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    x: 216
+    y: 73
+    width: 1333
+    height: 652
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -387,10 +453,14 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 960, y: 454}
 =======
   m_TargetSize: {x: 1333, y: 631}
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+  m_TargetSize: {x: 1333, y: 631}
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -406,16 +476,22 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -480
     m_HBaseRangeMax: 480
     m_VBaseRangeMin: -237.5
     m_VBaseRangeMax: 237.5
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_HBaseRangeMin: -666.5
     m_HBaseRangeMax: 666.5
     m_VBaseRangeMin: -315.5
     m_VBaseRangeMax: 315.5
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -444,13 +520,17 @@ MonoBehaviour:
       height: 631
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 666.5, y: 315.5}
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -480
       y: -237.5
@@ -468,6 +548,15 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1333, y: 652}
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+      x: -666.5
+      y: -315.5
+      width: 1333
+      height: 631
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1333, y: 652}
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -496,16 +585,22 @@ MonoBehaviour:
     x: 0
     y: 73
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 200
     height: 475
 =======
     width: 215
     height: 652
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    width: 215
+    height: 652
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -515,6 +610,11 @@ MonoBehaviour:
       m_LastClickedID: 0
       m_ExpandedIDs: 6e01ffffe6b5ffff24fbffff544100008e41000094540000aa540000ea5400006e550000
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+      m_SelectedIDs: 10550000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6e01ffffe6b5ffff24fbffff544100008e41000094540000aa540000ea5400006e550000
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -559,6 +659,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 201
     y: 73
     width: 960
@@ -569,6 +670,12 @@ MonoBehaviour:
     width: 1333
     height: 652
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    x: 216
+    y: 73
+    width: 1333
+    height: 652
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 2089b102e4495a04ab766d773dbdc793
@@ -582,6 +689,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 516.49677, y: 227.37886, z: -202.52417}
     speed: 2
     m_Value: {x: 516.49677, y: 227.37886, z: -202.52417}
@@ -590,6 +698,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -15.122832, y: 4.9102926, z: 4.0789633}
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    m_Target: {x: -15.122832, y: 4.9102926, z: 4.0789633}
+    speed: 2
+    m_Value: {x: -15.122832, y: 4.9102926, z: 4.0789633}
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -637,6 +750,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.0036042358, y: -0.012604046, z: 0.00014471552, w: -1.0000242}
     speed: 2
     m_Value: {x: 0.0036042358, y: -0.012604046, z: 0.00014471552, w: -1.0000242}
@@ -647,12 +761,19 @@ MonoBehaviour:
 =======
     m_Target: {x: 0.0029245242, y: 0.9864005, z: 0.018371826, w: -0.16395774}
     speed: 2
+=======
+    m_Target: {x: 0.0029245242, y: 0.9864005, z: 0.018371826, w: -0.16395774}
+    speed: 2
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_Value: {x: 0.0029242113, y: 0.9862949, z: 0.01836986, w: -0.16394019}
   m_Size:
     m_Target: 2.2609265
     speed: 2
     m_Value: 2.2609265
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -698,6 +819,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 201
     y: 73
     width: 960
@@ -708,6 +830,12 @@ MonoBehaviour:
     width: 915
     height: 655
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    x: 269
+    y: 73
+    width: 915
+    height: 655
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
@@ -731,6 +859,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 569
     width: 1162
     height: 250
@@ -739,6 +868,11 @@ MonoBehaviour:
     width: 1550
     height: 253
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    y: 746
+    width: 1550
+    height: 253
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -775,7 +909,10 @@ MonoBehaviour:
     m_SelectedIDs: e6630000
     m_LastClickedID: 25574
     m_ExpandedIDs: 000000004e4400008e510000
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -804,10 +941,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000007645000078450000
 =======
     m_ExpandedIDs: 000000004e44000050440000
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    m_ExpandedIDs: 000000004e44000050440000
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -833,12 +974,17 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 =======
     m_SelectedInstanceIDs: 6e01ffff
     m_LastClickedInstanceID: -65170
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+    m_SelectedInstanceIDs: 6e01ffff
+    m_LastClickedInstanceID: -65170
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003c420000
     m_RenameOverlay:
@@ -914,6 +1060,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1163
     y: 73
     width: 276
@@ -921,6 +1068,10 @@ MonoBehaviour:
 =======
     x: 1551
     y: 73
+=======
+    x: 1551
+    y: 73
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     width: 368
     height: 926
 >>>>>>> parent of 4f6ad72 (main menu added)

@@ -5,6 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
@@ -15,4 +16,7 @@ EditorBuildSettings:
 =======
   m_Scenes: []
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+  m_Scenes: []
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
   m_configObjects: {}

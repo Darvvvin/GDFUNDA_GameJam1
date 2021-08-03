@@ -75,6 +75,7 @@
      <Compile Include="Assets\Scripts\PickManager.cs" />
      <None Include="Assets\Laptop\StandardColorMask.shader" />
 <<<<<<< HEAD
+<<<<<<< HEAD
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -715,6 +716,8 @@
  <HintPath>E:/Windows Unity/GitHub/GDFUNDA_GameJam1/GameJam/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
     <Reference Include="UnityEngine">
       <HintPath>D:\Unity Editor\2020.3.9f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

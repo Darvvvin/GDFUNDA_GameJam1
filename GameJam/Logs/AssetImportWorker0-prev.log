@@ -1,24 +1,31 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
 <<<<<<< HEAD
+<<<<<<< HEAD
 OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8094 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
 E:\Windows Unity\3.9\Editor\Unity.exe
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 OS: 'Windows 10 Home Single Language; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16332 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
 D:\Unity Editor\2020.3.9f1\Editor\Unity.exe
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 <<<<<<< HEAD
 E:/Windows Unity/GitHub/GDFUNDA_GameJam1/GameJam
 -logFile
@@ -83,6 +90,8 @@ Received Import Request.
 Start importing Assets/Scenes/GameOverScene.unity using Guid(25c94c9bbfce9014e959f72c71e4bf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4f35015587a99df4ec0475ff20df09') in 0.501913 seconds
   Import took 0.548481 seconds .
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 D:/SCHOOL/GDFUNDA/GDFUNDA_GameJam1/GameJam
 -logFile
 Logs/AssetImportWorker0.log
@@ -357,11 +366,15 @@ System memory in use after: 81.3 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2086.
 Total: 1.819600 ms (FindLiveObjects: 0.143500 ms CreateObjectMapping: 0.052000 ms MarkObjects: 1.518600 ms  DeleteObjects: 0.104500 ms)
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.007849 seconds.
 Begin MonoManager ReloadAssembly
@@ -389,6 +402,8 @@ System memory in use after: 88.8 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2373.
 Total: 25.352100 ms (FindLiveObjects: 0.419600 ms CreateObjectMapping: 0.169700 ms MarkObjects: 24.699200 ms  DeleteObjects: 0.060000 ms)
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 Registered in 0.000922 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -425,11 +440,15 @@ System memory in use after: 81.4 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2092.
 Total: 2.392000 ms (FindLiveObjects: 0.211000 ms CreateObjectMapping: 0.103500 ms MarkObjects: 1.972100 ms  DeleteObjects: 0.104500 ms)
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.004330 seconds.
 Begin MonoManager ReloadAssembly
@@ -457,6 +476,8 @@ System memory in use after: 88.8 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2376.
 Total: 7.956000 ms (FindLiveObjects: 1.062600 ms CreateObjectMapping: 1.742700 ms MarkObjects: 5.095900 ms  DeleteObjects: 0.051200 ms)
 =======
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 Registered in 0.001040 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -513,6 +534,9 @@ System memory in use after: 81.4 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2101.
 Total: 2.335300 ms (FindLiveObjects: 0.195700 ms CreateObjectMapping: 0.072500 ms MarkObjects: 1.935000 ms  DeleteObjects: 0.131400 ms)
+<<<<<<< HEAD
 >>>>>>> parent of 4f6ad72 (main menu added)
+=======
+>>>>>>> parent of 445eb02 (Merge pull request #1 from Darvvvin/darvin)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

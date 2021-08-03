@@ -13,7 +13,7 @@ public class EndingScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        this.EndingText.text = "" + PhoneScript.timer; 
+        this.EndingText.text = "" + PhoneScript.timer + " SECONDS"; 
         ReturnBtn.onClick.AddListener(BackToMM);
     }
 

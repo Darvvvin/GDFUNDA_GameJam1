@@ -62,7 +62,4 @@ public class Phone : MonoBehaviour {
             this.GetComponent<Rigidbody>().detectCollisions = true;
         }
     }
-    //void OnMouseUp() {
-    //    isHolding = false;
-    //}
 }

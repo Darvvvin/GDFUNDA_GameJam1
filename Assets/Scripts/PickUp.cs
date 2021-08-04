@@ -15,6 +15,12 @@ public class PickUp : MonoBehaviour {
 
     public GameObject tempParent;
 
+    void Start()
+    {
+        this.tempParent = GameObject.Find("Destination");
+
+    }
+
     void Update() {
         distance = Vector3.Distance(this.transform.position, tempParent.transform.position);
         if (distance >= 3f) {

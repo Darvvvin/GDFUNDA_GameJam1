@@ -6,6 +6,7 @@ public class SpawnRandom : MonoBehaviour
 {
     [SerializeField] private List<GameObject> prefabList;
     [SerializeField] private GameObject spawnCube;
+    [SerializeField] private int objCount = 10;
     private int randomPrefab;
     public float spawnRadius = 100;
     public float spawnCollisionCheckRadius;
@@ -13,7 +14,7 @@ public class SpawnRandom : MonoBehaviour
     void Start()
     {
         this.spawnCube.SetActive(false);
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < objCount; i++)
         {
             Vector3 spawnPoint = transform.position + Random.insideUnitSphere * spawnRadius;
             if (!Physics.CheckSphere(spawnPoint, spawnCollisionCheckRadius))

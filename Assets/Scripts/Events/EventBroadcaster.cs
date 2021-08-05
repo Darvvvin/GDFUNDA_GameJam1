@@ -11,9 +11,19 @@ public class EventBroadcaster : MonoBehaviour
     }
 
     public event Action<int> onItemGet;
+    public event Action onChangeUI;
+
     public void ItemGet(int id) {
         if(onItemGet != null) {
             onItemGet(id);
+        }
+    }
+
+    public void UiChange()
+    {
+        if (onChangeUI != null)
+        {
+            onChangeUI();
         }
     }
 }

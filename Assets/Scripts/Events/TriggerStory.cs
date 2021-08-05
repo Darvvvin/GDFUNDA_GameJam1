@@ -17,6 +17,7 @@ public class TriggerStory : MonoBehaviour
 
         if(isHolding == true) {
             EventBroadcaster.current.ItemGet(id);
+            EventBroadcaster.current.UiChange();
             isHolding = false;
         }
 
@@ -26,5 +27,11 @@ public class TriggerStory : MonoBehaviour
         if(distance <= 3f) {
             isHolding = true;
         }
+    }
+
+    public void BroadcastEvent()
+    {
+
+        //EventBroadcaster.Instance.PostEvent(EventNames.GroupFun_Events.STORY_OBJECT_FOUND);
     }
 }

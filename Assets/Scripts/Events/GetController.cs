@@ -6,6 +6,7 @@ public class GetController : MonoBehaviour
 {
     public GameObject randomPosition;
     public GameObject item;
+    public AudioSource m_MyAudioSource;
 
     public int id;
 
@@ -18,6 +19,7 @@ public class GetController : MonoBehaviour
         if (id == this.id) {
             item.transform.position = randomPosition.transform.position;
             Object.Destroy(this.gameObject);
+            m_MyAudioSource.Play();
         }
     }
 }

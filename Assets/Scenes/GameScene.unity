@@ -10485,7 +10485,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 0.5
   MinDistance: 1
-  MaxDistance: 1000
+  MaxDistance: 15
   Pan2D: 0
   rolloffMode: 2
   BypassEffects: 0
@@ -10497,12 +10497,12 @@ AudioSource:
     - serializedVersion: 3
       time: 0
       value: 1
-      inSlope: -3.1006684
-      outSlope: -3.1006684
+      inSlope: -3.297663
+      outSlope: -3.297663
       tangentMode: 0
       weightedMode: 0
       inWeight: 0.33333334
-      outWeight: 0.110091746
+      outWeight: 0.10460251
     - serializedVersion: 3
       time: 1
       value: 0
@@ -10550,7 +10550,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 1.0061798
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -11078,7 +11078,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh31934
+  m_Name: pb_Mesh24598
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

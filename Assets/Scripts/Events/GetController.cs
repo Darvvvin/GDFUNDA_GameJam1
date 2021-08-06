@@ -18,7 +18,6 @@ public class GetController : MonoBehaviour
     public void ContinueStory(int id) {
         if (id == this.id) {
             int n = Random.Range(0, randomPosition.Length);
-            Debug.Log(randomPosition.Length);
             item.transform.position = randomPosition[n].transform.position;
             Object.Destroy(this.gameObject);
             prev_AudioSource.Stop();

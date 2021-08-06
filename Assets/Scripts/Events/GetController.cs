@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GetController : MonoBehaviour
 {
-    public GameObject randomPosition;
+    public GameObject[] randomPosition;
     public GameObject item;
     public AudioSource m_MyAudioSource, prev_AudioSource;
 
@@ -17,7 +17,9 @@ public class GetController : MonoBehaviour
 
     public void ContinueStory(int id) {
         if (id == this.id) {
-            item.transform.position = randomPosition.transform.position;
+            int n = Random.Range(0, randomPosition.Length);
+            Debug.Log(randomPosition.Length);
+            item.transform.position = randomPosition[n].transform.position;
             Object.Destroy(this.gameObject);
             prev_AudioSource.Stop();
             m_MyAudioSource.Play();

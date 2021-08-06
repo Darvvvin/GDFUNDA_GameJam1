@@ -2,4 +2,4 @@
 Darvin, Oliquino, Ranjo, Tulabot
 S12 
 
-Starting Scene: Main Menu
+Starting Scene: MainMenu

@@ -223,6 +223,7 @@ MonoBehaviour:
   randomPosition: {fileID: 100479673}
   item: {fileID: 1028005916}
   m_MyAudioSource: {fileID: 703944049}
+  prev_AudioSource: {fileID: 774868806}
   id: 2
 --- !u!54 &33627764
 Rigidbody:
@@ -2719,6 +2720,7 @@ MonoBehaviour:
   randomPosition: {fileID: 190437380}
   item: {fileID: 33627762}
   m_MyAudioSource: {fileID: 774868806}
+  prev_AudioSource: {fileID: 1488274831}
   id: 1
 --- !u!1001 &382819418
 PrefabInstance:
@@ -9359,6 +9361,7 @@ MonoBehaviour:
   randomPosition: {fileID: 1600859443}
   item: {fileID: 380626431}
   m_MyAudioSource: {fileID: 1488274831}
+  prev_AudioSource: {fileID: 321054603}
   id: 0
 --- !u!114 &1930202412
 MonoBehaviour:

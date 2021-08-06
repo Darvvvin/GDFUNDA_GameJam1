@@ -21,6 +21,7 @@ public class Phone : MonoBehaviour {
     public bool isTimerRunning = false;
 
     void Start() {
+        timer = 0;
         isTimerRunning = true;
     }
 
